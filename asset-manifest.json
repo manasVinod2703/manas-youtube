@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/manas-youtube/static/css/main.35072c46.css",
+    "main.js": "/manas-youtube/static/js/main.4cee22c7.js",
+    "index.html": "/manas-youtube/index.html",
+    "main.35072c46.css.map": "/manas-youtube/static/css/main.35072c46.css.map",
+    "main.4cee22c7.js.map": "/manas-youtube/static/js/main.4cee22c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35072c46.css",
+    "static/js/main.4cee22c7.js"
+  ]
+}
